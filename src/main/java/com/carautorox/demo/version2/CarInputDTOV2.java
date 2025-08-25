@@ -45,4 +45,12 @@ public class CarInputDTOV2 {
 
     public String getUploadLicenseInfo() { return uploadLicenseInfo; }
     public void setUploadLicenseInfo(String uploadLicenseInfo) { this.uploadLicenseInfo = uploadLicenseInfo; }
+    public void setCarOdometer(Integer castInt) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setCarOdometer'");
+    }
+    public void setCarRcNumber(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setCarRcNumber'");
+    }
 }
